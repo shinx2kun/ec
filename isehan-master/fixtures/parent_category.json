@@ -1,0 +1,16 @@
+[
+{
+  "model": "backend.ParentCategory",
+  "pk": 1,
+  "fields": {
+    "name": "親カテゴリー1"
+  }
+},
+{
+  "model": "backend.ParentCategory",
+  "pk": 2,
+  "fields": {
+    "name": "親カテゴリー2"
+  }
+}
+]

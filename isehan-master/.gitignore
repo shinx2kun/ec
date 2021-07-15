@@ -1,0 +1,6 @@
+.idea
+*pyc
+debug.log
+.DS_Store
+mysql/data/*
+mysql/backup/*

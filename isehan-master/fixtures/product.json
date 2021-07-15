@@ -1,0 +1,18 @@
+[
+{
+  "model": "backend.Product",
+  "pk": 1,
+  "fields": {
+    "name": "商品1",
+    "price": 1000
+  }
+},
+{
+  "model": "backend.Product",
+  "pk": 2,
+  "fields": {
+    "name": "商品2",
+    "price": 1200
+  }
+}
+]

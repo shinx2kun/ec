@@ -1,0 +1,20 @@
+[
+{
+  "model": "backend.ProductDescription",
+  "pk": 3,
+  "fields": {
+    "title": "説明タイトル3,
+    "description": "詳細説明3",
+    "product_id": 3
+  }
+},
+{
+  "model": "backend.ProductDescription",
+  "pk": 4,
+  "fields": {
+    "title": "説明タイトル4",
+    "description": "詳細説明4",
+    "product_id": 4
+  }
+}
+]
